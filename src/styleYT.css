@@ -1,0 +1,17 @@
+#dropdown_id{
+    color:rgb(179, 17, 3);
+    position: absolute;
+    border: 1px solid #ddd;
+    width: 200px;
+    height: 100px;
+    background: rgb(189, 125, 125);
+    z-index: 999;
+    box-shadow: 2px px 5px rgba(0,0,0,.2);
+    display: none;
+}
+
+ul{
+    color:rgb(179, 17, 3);
+    background-color:rgb(138, 76, 1);
+
+}
